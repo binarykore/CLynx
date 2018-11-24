@@ -1,4 +1,4 @@
-# C Lynx a fur under Coding.
+# C Lynx - A fur under Coding.
 
 ## General Purpose Programming Language built under PHP 5.6.3
 
